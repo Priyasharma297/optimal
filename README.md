@@ -1,4 +1,5 @@
 Reinforcement Learning-Based Product Pricing Optimization
+
 Implements a Reinforcement Learning (RL) module to determine the ideal product price for the next day. The goal is to maximize sales and conversion rates while exploring new price points to optimize profitability.
 
 Overview
