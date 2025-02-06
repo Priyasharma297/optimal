@@ -91,18 +91,24 @@ Exploration of price points above historical medians.
 Punishment: Penalizes lower-than-predicted sales or reduced conversion rates.
 Exploration: Actively explores price points beyond historical ranges by testing incremented price values.
 Forecasting: Uses the predicted sales column to refine pricing decisions for the next day.
+
 Example
+
 Input Historical Data:
 
 Report Date	Product Price	Organic Conversion %	Ad Conversion %	Total Profit	Total Sales	Predicted Sales
 2025-02-01	14.0	12%	10%	200	100	105
 2025-02-02	16.0	15%	12%	250	120	125
+
 Predicted Output:
 
 Predicted Optimal Price: $16.5
+
 Contact
 For any queries or suggestions, feel free to contact:
 
 Name: Priya Sharma
+
 Email: [ps134425@gmail.com]
+
 LinkedIn: [(https://www.linkedin.com/in/priya-sharma-9840a7287/)]
